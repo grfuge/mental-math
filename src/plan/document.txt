@@ -1,0 +1,14 @@
+Title
+
+Question
+
+Input
+
+Settings
+  Operations
+  Difficulty
+
+Score
+  Wrong, right
+  Percentage
+  Clear

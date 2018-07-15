@@ -1,0 +1,19 @@
+Model
+  Question generator
+    Operations
+    Difficulty
+    
+  Score counter
+
+Controller
+  Answer checker
+    Submit question
+    Get correct answer
+    
+  Question controller
+    Send parameters
+
+View
+
+
+Controller (question parameters) -> Model (generate question) -> View (show question)
